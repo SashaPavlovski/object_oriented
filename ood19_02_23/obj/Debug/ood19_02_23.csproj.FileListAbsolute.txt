@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ood19_02_23\ood19_02_23\bin\Debug\ood19_02_23.exe.config
+C:\Users\User\source\repos\ood19_02_23\ood19_02_23\bin\Debug\ood19_02_23.exe
+C:\Users\User\source\repos\ood19_02_23\ood19_02_23\bin\Debug\ood19_02_23.pdb
+C:\Users\User\source\repos\ood19_02_23\ood19_02_23\obj\Debug\ood19_02_23.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ood19_02_23\ood19_02_23\obj\Debug\ood19_02_23.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ood19_02_23\ood19_02_23\obj\Debug\ood19_02_23.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ood19_02_23\ood19_02_23\obj\Debug\ood19_02_23.exe
+C:\Users\User\source\repos\ood19_02_23\ood19_02_23\obj\Debug\ood19_02_23.pdb
